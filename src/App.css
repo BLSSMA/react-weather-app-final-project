@@ -1,0 +1,11 @@
+.App {  
+  text-align: center;
+background-image: linear-gradient(to bottom, #a4562e, #bf712a, #d59023, #e4b218, #ebd712);
+}
+.footer{
+  font-size: 10px;
+  padding-bottom:60px;
+}
+.footer a{
+  color:rgb(71, 139, 7);
+}
